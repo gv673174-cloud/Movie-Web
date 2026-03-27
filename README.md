@@ -21,3 +21,13 @@
     <li><b>API:</b> TMDB (The Movie Database)</li>
     <li><b>Tools:</b> VS Code, Git, GitHub</li>
   </ul>
+  <h2>⚙️ Installation & Setup</h2>
+  <ol>
+    <li>Clone the repository</li>
+    <code>git clone https://github.com/your-username/movie-app.git</code>
+
+    <li>Navigate to the project folder</li>
+    <code>cd movie-app</code>
+
+    <li>Open <b>movie.html</b> in your browser</li>
+  </ol>
