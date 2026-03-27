@@ -31,3 +31,16 @@
 
     <li>Open <b>movie.html</b> in your browser</li>
   </ol>
+  <h2>🚧 Future Improvements</h2>
+  <ul>
+    <li>🎥 Trailer preview</li>
+    <li>❤️ Watchlist feature</li>
+    <li>📊 Rating filter</li>
+    <li>🌙 Dark mode</li>
+  </ul>
+
+  <h2>👨‍💻 Author</h2>
+  <p><b>Gautam Verma</b><br>Frontend Developer</p>
+
+  <p>⭐ If you like this project, don’t forget to star the repository!</p>
+
