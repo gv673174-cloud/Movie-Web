@@ -1,4 +1,4 @@
-# Movie-Web
+# Movie-Hub
 <h1>🎬 Movie Explorer Web App</h1>
   <p>
     A responsive Movie Web Application built using <b>HTML, CSS, and JavaScript</b> that allows users 
