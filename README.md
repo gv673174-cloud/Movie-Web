@@ -18,7 +18,6 @@
   <h2>🛠️ Tech Stack</h2>
   <ul>
     <li><b>Frontend:</b> HTML, CSS, JavaScript</li>
-    <li><b>API:</b> TMDB (The Movie Database)</li>
     <li><b>Tools:</b> VS Code, Git, GitHub</li>
   </ul>
   <h2>⚙️ Installation & Setup</h2>
